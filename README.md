@@ -68,8 +68,5 @@ An early skeleton for **AuditTrail** — a permissioned, blockchain‑based audi
 - Basic dashboard UI (later)
 
 ## Contributions
-- Branch per feature; PR with short description & test notes.
 - Keep README updated as interfaces stabilize.
 
-## License
-MIT (placeholder — choose what your team prefers).
